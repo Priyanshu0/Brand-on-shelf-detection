@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+datasets/
+inference_images/
+*.pt
+runs/

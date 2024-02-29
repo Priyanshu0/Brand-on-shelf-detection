@@ -1,0 +1,8 @@
+roboflow
+ultralytics==8.0.196
+numpy
+pandas
+torch
+torchvision
+torchaudio
+ipykernel
