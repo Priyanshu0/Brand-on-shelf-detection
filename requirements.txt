@@ -6,3 +6,4 @@ torch
 torchvision
 torchaudio
 ipykernel
+python-dotenv
